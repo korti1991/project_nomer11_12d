@@ -1,0 +1,53 @@
+body {
+background-image: url("bg2.jpg");
+}
+h1 {
+
+
+  font-size: 140%;
+  position:center;
+   text-align: center;
+}
+h2 {
+
+  font-size: 200%;
+  position:center;
+   text-align: center;
+}
+
+h3 {
+
+
+  font-style: italic;
+  font-size: 130%;
+  text-align: center;
+}
+h4 {
+
+
+  font-style: underline;
+ 
+  font-style: bold;
+  font-size: 110%;
+  text-align: center;
+}
+h5 {
+
+
+  font-size: 100%;
+  text-align: center;
+}
+h6 {
+
+
+  font-size: 300%;
+  position:center;
+  text-align: center;
+  font-style: italic;
+}
+h {
+
+  position:center;
+  font-size: 110%;
+  text-align: center;
+}
